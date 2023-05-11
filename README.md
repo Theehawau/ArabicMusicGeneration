@@ -2,7 +2,7 @@
 
 This repository contains files for data collection and preparation tasks for creating our Arabic Music Dataset available [here](). 
 
-Using our dataset we trained a model based on [musika's](https://github.com/marcoppasini/musika) architecture. Some checkpoints are in SmallLD and LargeLD.
+Using our dataset we trained a model based on [musika's](https://github.com/marcoppasini/musika) architecture. Some checkpoints are available [here](https://mbzuaiac.sharepoint.com/:f:/s/ML703project-MusicGeneration/EsxKsLD4DalPoXAeVupaA-wB-e1yxuqY3HY-41nZtcpF0A?e=Qg6mRM).
 
 Some samples:
 
